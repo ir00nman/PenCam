@@ -1,6 +1,6 @@
  # PenCAM
 
-**Single-file browser CAM + sender for pen plotting on a CNC 3018 (GRBL). Now with multi-color drawing using a 8-color pen.**
+**Web CAM software + sender for pen plotting on a CNC 3018 (GRBL). Now with multi-color drawing using a 8-color pen.**
 
 ---
 
