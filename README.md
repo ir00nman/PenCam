@@ -55,7 +55,8 @@ The idea: inks on paper don't mix like printer dots, so instead of blending colo
 5. Generate G-code and check the **Pen path** preview.
 <img width="284" height="86" alt="image" src="https://github.com/user-attachments/assets/984f57d7-c0c7-4963-87d3-08fa48753e54" />
 
-6. When the banner appears, switch the pen color and press *Continue*.
+6. Send the task
+7. When the banner appears, switch the pen color and press *Continue*.
 
 ## Requirements
 
