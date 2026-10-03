@@ -49,8 +49,12 @@ The idea: inks on paper don't mix like printer dots, so instead of blending colo
 1. Go to Deployments => Last deployments and open the website
 2. Go to **Color pen**, load an image (drag & drop, `Ctrl+V` or click).
 3. Calibrate the palette with the eyedropper (not really necessary) if needed, tune the settings.
-4. Generate G-code and check the **Pen path** preview.
-5. In **Machine**, connect to the controller, place the drawing on the work area and send the whole job or single color layers.
+4. In **Machine**, connect to the controller, place the drawing on the work area and send the whole job or single color layers.
+<img width="347" height="68" alt="image" src="https://github.com/user-attachments/assets/fe61d922-4cc8-4c0d-a5a5-e545cba718ef" />
+
+5. Generate G-code and check the **Pen path** preview.
+<img width="284" height="86" alt="image" src="https://github.com/user-attachments/assets/984f57d7-c0c7-4963-87d3-08fa48753e54" />
+
 6. When the banner appears, switch the pen color and press *Continue*.
 
 ## Requirements
