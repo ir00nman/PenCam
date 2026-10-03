@@ -63,8 +63,9 @@ The idea: inks on paper don't mix like printer dots, so instead of blending colo
 
 - Without white and mixing, results look like a posterized, linocut-style print rather than a photo. That's expected for this technique.
 - Calibrate colors on the paper you'll actually use: real ink is darker and duller than its nominal color.
+- <img width="1063" height="815" alt="image" src="https://github.com/user-attachments/assets/8467cc7b-9ba0-41b3-b138-9063285ff873" />
+
 
 ## License
 
-MIT 2.0
-
+Check License.txt
